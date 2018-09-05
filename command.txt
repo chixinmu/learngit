@@ -3,3 +3,8 @@ git config --global user.email ""
 
 
 git init
+
+git status
+
+git log
+
