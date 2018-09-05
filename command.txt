@@ -8,5 +8,7 @@ git status
 
 git log
 
-git remote add origin https://github.com/xxxx/xxx.git
-git pull --rebase oreigin master
+git remote add origin https://github.com/xxxx/xxx.git   //关联远程仓库
+git pull --rebase origin master        //拉取远程仓库
+
+git push -u origin master
